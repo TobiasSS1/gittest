@@ -10,7 +10,7 @@ namespace gittest
     {
         static void Main(string[] args)
         {
-            //dette er en test
+            Console.WriteLine("Test af Git Branch");
         }
     }
 }
